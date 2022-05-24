@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **siddhant385/siddhant385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
+### <p align="center">⚙️ &nbsp;MY Statistics</p>
 <br>
 <p align="center">
 <a href="https://github.com/siddhant385">
