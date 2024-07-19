@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 -----
 
 ### <p align="center">👀 &nbsp;YOU ARE VISITOR NO.</p>
+### For contacting me please visit : https://siddhant385.github.io or [click here]("https://siddhant385.github.io")
 <br>
 <p align="center">
   <img src="https://profile-counter.glitch.me/siddhant385/count.svg" />
