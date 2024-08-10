@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h1 align="center">Hi 👋, I'm Siddhant</h1>
 <h3 align="center">A passionate and devoted tech enthusiast</h3>
 
@@ -21,15 +20,15 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React, Javascript, git**
 
-- 👯 I’m looking to collaborate on [flask-phishing](https://github.com/siddhant385/flask-phishing)
+- 🤝 I’m looking for help with [flask-phishing](https://github.com/siddhant385/flask-phishing)
 
-- 👨‍💻 All of my projects are available at [siddhant385.github.io](siddhant385.github.io)
+- 👨‍💻 All of my projects are available at [https://siddhant385.github.io](https://siddhant385.github.io)
 
-- 📝 I regularly write articles on [siddhant385.github.io/blog](siddhant385.github.io/blog/)
+- 📝 I regularly write articles on [https://siddhant385.github.io/blog/](https://siddhant385.github.io/blog/)
 
 - 💬 Ask me about **python, django**
 
-- 📫 How to reach me **siddhant385.github.io**
+- 📫 How to reach me **https://siddhant385.github.io**
 
 - ⚡ Fun fact **Sorry No Fun Fact**
 
@@ -37,6 +36,8 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://instagram.com/s.i.d385" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.i.d385" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sid385" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sid385" height="30" width="40" /></a>
+<a href="https://t.me/sid385" target="blank"><img align="center" src="https://github.com/user-attachments/assets/a49bef7c-aea8-4c60-805b-118411a31986" alt="sid385" height="30" width="40" /></a>
+<a href="https://siddhant385.github.io/blog/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/1e53d968-d2bd-4a16-bfa4-ebee314698f5" alt="sid385" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,6 +48,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhant385&show_icons=true&locale=en" alt="siddhant385" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant385&" alt="siddhant385" /></p>
+
 
 
 ### <p align="center">👀 &nbsp;YOU ARE VISITOR NO.</p>
