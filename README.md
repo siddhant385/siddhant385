@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [siddhant385.github.io](siddhant385.github.io)
 
-- 📝 I regularly write articles on [siddhant385.github.io/blog](siddhant385.github.io/blog)
+- 📝 I regularly write articles on [siddhant385.github.io/blog](siddhant385.github.io/blog/)
 
 - 💬 Ask me about **python, django**
 
