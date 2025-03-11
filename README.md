@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **https://siddhant385.github.io**
 
-- ⚡ Fun fact **Sorry No Fun Fact**
+- ⚡ Fun fact My Typing speed is over**75 wpm**
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
