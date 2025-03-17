@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+tech+enthusiast" alt="Typing SVG" /></a>
 
 
-- 🔭 I’m currently working on [pyhackthon](https://github.com/siddhant385/pyhackthon)
+- 🔭 I’m currently working on [JEC Hostel 5](https://github.com/siddhant385/JEC-Hostel-5)
 
 - 🌱 I’m currently learning **React, Javascript, git**
 
