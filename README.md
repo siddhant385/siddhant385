@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **python, django**
 
-- 📫 How to reach me **https://siddhant385.github.io**
+- 📫 How to reach me **https://sid385.is-a.dev**
 
 - ⚡ Fun fact My Typing speed is over**75 wpm**
 
