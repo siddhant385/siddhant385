@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+tech+enthusiast" alt="Typing SVG" /></a>
 
 
-- 🔭 I’m currently working on [JEC Hostel 5](https://github.com/siddhant385/JEC-Hostel-5)
+- 🔭 I’m currently working on [Finance Manager Main](https://github.com/siddhant385/Finance-Manager-main)
 
-- 🌱 I’m currently learning **React, Javascript, git**
+- 🌱 I’m currently learning **Langgraph, Javascript, git**
 
 - 🤝 I’m looking for help with [flask-phishing](https://github.com/siddhant385/flask-phishing)
 
@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [https://siddhant385.github.io/blog/](https://siddhant385.github.io/blog/)
 
-- 💬 Ask me about **python, django**
+- 💬 Ask me about **python, django, flask**
 
 - 📫 How to reach me **https://sid385.is-a.dev**
 
-- ⚡ Fun fact My Typing speed is over**75 wpm**
+- ⚡ Fun fact My Typing speed is over**85 wpm**
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
