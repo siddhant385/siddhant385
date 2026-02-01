@@ -1,15 +1,20 @@
-name: update-gh-activity
+name: Update GitHub Activity
 
 on:
   schedule:
-    - cron: '0 12 * * *'
+    - cron: '0 12 * * *' # Har roz dopehar 12 baje chalega (UTC time)
+  workflow_dispatch:      # <--- Ye line manual run ka button add karti hai
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: Update-this-repo-readme-with-recent-activity
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3  # Updated to v3 (better standard)
+      
       - uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          # Note: Agar tune manual secret banaya hai to GH_TOKEN hi rakh.
+          # Agar automatic wala use karna hai to 'GITHUB_TOKEN' likh dena.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
