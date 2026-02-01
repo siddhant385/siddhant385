@@ -48,9 +48,9 @@ hobbies: ["Handball", "Cinema", "Anime"]
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-- 🔨 Building backend logic for **Finance Manager**
-- 🚀 Studying backend & AI system design patterns
-- 🐛 Improving CI/CD & deployment reliability
+1. 🎉 Merged PR [#11](https://github.com/siddhant385/project-management/pull/11) in [siddhant385/project-management](https://github.com/siddhant385/project-management)
+2. 💪 Opened PR [#11](https://github.com/siddhant385/project-management/pull/11) in [siddhant385/project-management](https://github.com/siddhant385/project-management)
+3. 🎉 Merged PR [#10](https://github.com/siddhant385/project-management/pull/10) in [siddhant385/project-management](https://github.com/siddhant385/project-management)
 <!--END_SECTION:activity-->
 
 ---
