@@ -1,6 +1,6 @@
 # Hi, I'm Siddhant 👋
+> 🌍 [Portfolio](https://sid385.is-a.dev)
 ---
-
 ```yaml
 name: "Siddhant Sharma"
 located_in: "Jabalpur, India"
@@ -13,14 +13,12 @@ currently_learning: ["Typescript", "AWS", "DSA"]
 will_learn: ["Blockchain (Backend)"]
 hobbies: ["Handball", "Cinema", "Anime"]
 ```
-
 ---
-
 ### 🎯 Focus
 - **System Design & Backend:** Event-driven APIs, async workers, scalable services
 - **AI Systems:** Building and integrating AI agents into backend workflows
 - **DevOps & Cloud:** CI/CD with GitHub Actions, Docker, and Linux automation
-
+---
 ### 🛠️ Tech Stack
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
@@ -47,18 +45,18 @@ hobbies: ["Handball", "Cinema", "Anime"]
 </p>
 
 ---
+
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/siddhant385/project-management/pull/11) in [siddhant385/project-management](https://github.com/siddhant385/project-management)
-2. 💪 Opened PR [#11](https://github.com/siddhant385/project-management/pull/11) in [siddhant385/project-management](https://github.com/siddhant385/project-management)
-3. 🎉 Merged PR [#10](https://github.com/siddhant385/project-management/pull/10) in [siddhant385/project-management](https://github.com/siddhant385/project-management)
+- 🔨 Building backend logic for **Finance Manager**
+- 🚀 Studying backend & AI system design patterns
+- 🐛 Improving CI/CD & deployment reliability
 <!--END_SECTION:activity-->
 
 ---
 <!-- Acitivity Graph of siddhant -->
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=siddhant385&theme=github-dark-dimmed&custom_title=Siddhant%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
-
 ### 🌐 Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/siddhant385" target="_blank">
@@ -69,5 +67,3 @@ hobbies: ["Handball", "Cinema", "Anime"]
   </a>
 </p>
 
-- 🌍 Portfolio: https://sid385.is-a.dev  
-- ✍️ Blog: https://siddhant385.github.io/blog
