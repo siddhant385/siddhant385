@@ -1,68 +1,73 @@
+# Hi, I'm Siddhant 👋
+---
 
-<!--
-**siddhant385/siddhant385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+name: "Siddhant Sharma"
+located_in: "Jabalpur, India"
+status: 2nd Year Student @ Jabalpur Engineering College
+education: ["B.Tech in Computer Science"]
+job: "Backend and AI Intern"
+company: "Devnex Technologies"
+fields_of_interests: ["System Design", "Agentic AI", "Competitive Programming"] 
+currently_learning: ["Typescript", "AWS", "DSA"]
+will_learn: ["Blockchain (Backend)"]
+hobbies: ["Handball", "Cinema", "Anime"]
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Siddhant</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+tech+enthusiast" alt="Typing SVG" /></a>
+### 🎯 Focus
+- **System Design & Backend:** Event-driven APIs, async workers, scalable services
+- **AI Systems:** Building and integrating AI agents into backend workflows
+- **DevOps & Cloud:** CI/CD with GitHub Actions, Docker, and Linux automation
 
-
-- 🔭 I’m currently working on [Finance Manager Main](https://github.com/siddhant385/Finance-Manager-main)
-
-- 🌱 I’m currently learning **Langgraph, Javascript, git**
-
-- 🤝 I’m looking for help with [flask-phishing](https://github.com/siddhant385/flask-phishing)
-
-- 👨‍💻 All of my projects are available at [https://siddhant385.github.io](https://siddhant385.github.io)
-
-- 📝 I regularly write articles on [https://siddhant385.github.io/blog/](https://siddhant385.github.io/blog/)
-
-- 💬 Ask me about **python, django, flask**
-
-- 📫 How to reach me **https://sid385.is-a.dev**
-
-- ⚡ Fun fact My Typing speed is over**85 wpm**
-
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-<a href="https://instagram.com/s.i.d385" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.i.d385" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sid385" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sid385" height="30" width="40" /></a>
-<a href="https://t.me/sid385" target="blank"><img align="center" src="https://github.com/user-attachments/assets/a49bef7c-aea8-4c60-805b-118411a31986" alt="sid385" height="30" width="40" /></a>
-<a href="https://siddhant385.github.io/blog/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/1e53d968-d2bd-4a16-bfa4-ebee314698f5" alt="sid385" height="30" width="40" /></a>
-</p>
-</br>
-</br>
-
-<h2 align="center">Languages and Tools:</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,django,flask,git,docker,html,mysql,javascript,linux,python,react,sqlite,tailwind&perline=5" />
+### 🛠️ Tech Stack
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python&theme=light" />
   </a>
-</p>  
-
-</br>
-</br>
-
-
-<h2 align="center">MY STATS</h2>
-<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant385&show_icons=true&locale=en&layout=compact" alt="siddhant385" /></p>
-<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhant385&show_icons=true&locale=en" alt="siddhant385" /></p>
-<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant385&" alt="siddhant385" /></p>
-
-
-
-### <p align="center">👀 &nbsp;YOU ARE VISITOR NO.</p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/siddhant385/count.svg" />
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=fastapi&theme=light" />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=django&theme=light" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker&theme=light" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git&theme=light" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux&theme=light" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgresql&theme=light" />
+  </a>
 </p>
 
+---
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+- 🔨 Building backend logic for **Finance Manager**
+- 🚀 Studying backend & AI system design patterns
+- 🐛 Improving CI/CD & deployment reliability
+<!--END_SECTION:activity-->
+
+---
+<!-- Acitivity Graph of siddhant -->
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=siddhant385&theme=github-dark-dimmed&custom_title=Siddhant%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+### 🌐 Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/siddhant385" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/siddhant385" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+- 🌍 Portfolio: https://sid385.is-a.dev  
+- ✍️ Blog: https://siddhant385.github.io/blog
