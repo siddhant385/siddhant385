@@ -48,8 +48,8 @@ hobbies: ["Handball", "Cinema", "Anime"]
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/siddhant385/project-management/pull/11) in [siddhant385/project-management](https://github.com/siddhant385/project-management)
-2. 💪 Opened PR [#11](https://github.com/siddhant385/project-management/pull/11) in [siddhant385/project-management](https://github.com/siddhant385/project-management)
+1. 🎉 Merged PR [#33675](https://github.com/is-a-dev/register/pull/33675) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 💪 Opened PR [#33675](https://github.com/is-a-dev/register/pull/33675) in [is-a-dev/register](https://github.com/is-a-dev/register)
 3. 🎉 Merged PR [#10](https://github.com/siddhant385/project-management/pull/10) in [siddhant385/project-management](https://github.com/siddhant385/project-management)
 <!--END_SECTION:activity-->
 
