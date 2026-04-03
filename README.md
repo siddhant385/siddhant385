@@ -48,9 +48,9 @@ hobbies: ["Handball", "Cinema", "Anime"]
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/siddhant385/codehunt/pull/3) in [siddhant385/codehunt](https://github.com/siddhant385/codehunt)
-2. 🎉 Merged PR [#33675](https://github.com/is-a-dev/register/pull/33675) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 💪 Opened PR [#33675](https://github.com/is-a-dev/register/pull/33675) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🎉 Merged PR [#2](https://github.com/siddhant385/crickbuzz-websockets/pull/2) in [siddhant385/crickbuzz-websockets](https://github.com/siddhant385/crickbuzz-websockets)
+2. 💪 Opened PR [#2](https://github.com/siddhant385/crickbuzz-websockets/pull/2) in [siddhant385/crickbuzz-websockets](https://github.com/siddhant385/crickbuzz-websockets)
+3. 🎉 Merged PR [#1](https://github.com/siddhant385/crickbuzz-websockets/pull/1) in [siddhant385/crickbuzz-websockets](https://github.com/siddhant385/crickbuzz-websockets)
 <!--END_SECTION:activity-->
 
 ---
