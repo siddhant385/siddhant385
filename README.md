@@ -6,8 +6,6 @@ name: "Siddhant Sharma"
 located_in: "Jabalpur, India"
 status: 2nd Year Student @ Jabalpur Engineering College
 education: ["B.Tech in Computer Science"]
-job: "Backend and AI Intern"
-company: "Devnex Technologies"
 fields_of_interests: ["System Design", "Agentic AI", "Competitive Programming"] 
 currently_learning: ["Typescript", "AWS", "DSA"]
 will_learn: ["Blockchain (Backend)"]
