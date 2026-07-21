@@ -46,7 +46,7 @@ hobbies: ["Handball", "Cinema", "Anime"]
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/siddhant385/crickbuzz-websockets/pull/2) in [siddhant385/crickbuzz-websockets](https://github.com/siddhant385/crickbuzz-websockets)
+1. 🚀 Published release [leetcode-sync-action](https://github.com/siddhant385/leetcode-sync-action/releases/tag/v1) in [siddhant385/leetcode-sync-action](https://github.com/siddhant385/leetcode-sync-action)
 2. 💪 Opened PR [#2](https://github.com/siddhant385/crickbuzz-websockets/pull/2) in [siddhant385/crickbuzz-websockets](https://github.com/siddhant385/crickbuzz-websockets)
 3. 🎉 Merged PR [#1](https://github.com/siddhant385/crickbuzz-websockets/pull/1) in [siddhant385/crickbuzz-websockets](https://github.com/siddhant385/crickbuzz-websockets)
 <!--END_SECTION:activity-->
